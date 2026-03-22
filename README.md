@@ -146,12 +146,16 @@ pip install scikit-learn pandas numpy matplotlib seaborn jupyter
 
 ---
 
-## Author
+## References
 
-**Jagruthi Nitya**
-B.Tech — Computer Science
-Internship Project | March 2026
+*Dataset source: [Kaggle — Store Sales Time Series Forecasting](https://www.kaggle.com/competitions/store-sales-time-series-forecasting)*
+*Task: Future Interns ML Track — Task 01*
 
 ---
 
-*Dataset source: [Kaggle — Store Sales Time Series Forecasting](https://www.kaggle.com/competitions/store-sales-time-series-forecasting)*
+## Author
+
+**Jagruthi Nithya** — Future Interns ML Intern
+GitHub: [@nithya010719-oss](https://github.com/nithya010719-oss)
+
+
