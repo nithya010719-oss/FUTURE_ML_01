@@ -120,8 +120,8 @@ pip install scikit-learn pandas numpy matplotlib seaborn jupyter
 
 1. Clone the repository and download the dataset from Kaggle:
    ```bash
-   git clone <your-repo-url>
-   cd <repo-folder>
+   git clone https://github.com/nithya010719-oss/FUTURE_ML_01.git
+   cd FUTURE_ML_01
    ```
 
 2. Place `train.csv` and `test.csv` in the project directory.
